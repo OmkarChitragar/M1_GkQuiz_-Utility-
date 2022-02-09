@@ -10,25 +10,25 @@ knowledge as a result.
 
 * Feature of my project
 
-  1.Participate in quiz.
+  1. Participate in quiz.
   
-  2.View the result.
+  2. View the result.
   
-  3.Exit the quiz.
+  3. Exit the quiz.
 
 ## Low Level Requirements
 
 * How each features is implemented
 
-  1.Prints the statement asking the creadintials such as name of the user for the particapation in the quiz.
+  1. Prints the statement asking the creadintials such as name of the user for the particapation in the quiz.
   
-  2.Displays the multiple choice general knowledge questions to the user.
+  2. Displays the multiple choice general knowledge questions to the user.
   
-  3.Takes input as right/wrong answer from the user.
+  3. Takes input as right/wrong answer from the user.
   
-  4.Displays result upon completion of the quiz.
+  4. Displays result upon completion of the quiz.
   
-  5.Provids user with exit option to exit the quiz.
+  5. Provids user with exit option to exit the quiz.
 
 ## SWOT
 ![Screenshot (187)](https://user-images.githubusercontent.com/42509490/153286605-2b3fae1f-2164-4568-a48f-b2b75c0bda07.png)
