@@ -9,6 +9,7 @@ knowledge as a result.
 ## High Level Requirements
 
 * Feature of my project
+
   1.Participate in quiz.
   2.View the result.
   3.Exit the quiz.
@@ -16,6 +17,7 @@ knowledge as a result.
 ## Low Level Requirements
 
 * How each features is implemented
+
   1.Prints the statement asking the creadintials such as name of the user for the particapation in the quiz.
   2.Displays the multiple choice general knowledge questions to the user.
   3.Takes input as right/wrong answer from the user.
