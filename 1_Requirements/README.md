@@ -36,23 +36,23 @@ knowledge as a result.
 
 ## 4W's & 1H
 
-*What?
+* What?
 
-The project is a simple solution for a general knowledge test as well as for the knowledge update of the user.
+  The project is a simple solution for a general knowledge test as well as for the knowledge update of the user.
 
-*Who?
+* Who?
 
-Anybody who wants to test their general knowledge and be knowledge updated can take up the quiz.
+  Anybody who wants to test their general knowledge and be knowledge updated can take up the quiz.
 
-*When?
+* When?
 
-When the user wants to ehance his/her's knowledge.
+  When the user wants to ehance his/her's knowledge.
 
-*why?
+* why?
 
-The user will be aware of the things based on the knowledge obtained by taking up the quiz.
+  The user will be aware of the things based on the knowledge obtained by taking up the quiz.
 
-*How?
+* How?
 
-By implementing a simple C program this solution can be achived.
+  By implementing a simple C program this solution can be achived.
 
