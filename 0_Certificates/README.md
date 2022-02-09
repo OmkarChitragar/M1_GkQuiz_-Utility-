@@ -11,5 +11,6 @@
 
 
 ## Screenshot HackerEarth Points
- ![Screenshot (196)](https://user-images.githubusercontent.com/42509490/153298546-36c8aa79-a738-481f-9361-fe91196529a4.png)
+ ![Screenshot (197)](https://user-images.githubusercontent.com/42509490/153298706-319c104f-9895-49b6-a59b-654971f3eb61.png)
+
 
