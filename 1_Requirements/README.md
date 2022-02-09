@@ -9,9 +9,10 @@ knowledge as a result.
 ## High Level Requirements
 
 * Feature of my project
-
   1.Participate in quiz.
+  
   2.View the result.
+  
   3.Exit the quiz.
 
 ## Low Level Requirements
