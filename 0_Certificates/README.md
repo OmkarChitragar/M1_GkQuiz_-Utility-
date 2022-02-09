@@ -1,4 +1,6 @@
-Add all the certificates obtained
+## Certificates obtained
+
+
 * Sololearn certificate
  ![Screenshot (192)](https://user-images.githubusercontent.com/42509490/153296810-ff984a41-74ec-4b37-b419-df74477c4cf3.png)
 
