@@ -22,8 +22,10 @@ knowledge as a result.
 5.Provids user with exit option to exit the quiz.
 
 ## SWOT
+![Screenshot (187)](https://user-images.githubusercontent.com/42509490/153286605-2b3fae1f-2164-4568-a48f-b2b75c0bda07.png)
 
 
+<<<<<<< HEAD
 ## 4W's & 1H
 
 *What?
@@ -40,3 +42,7 @@ The user will be aware of the things based on the knowledge obtained by taking u
 
 *How?
 By implementing a simple C program this solution can be achived.
+=======
+
+## 4W's & 1H
+>>>>>>> 15ba7bd90ac9ef144b506e80eb2c89cb05060ce8
