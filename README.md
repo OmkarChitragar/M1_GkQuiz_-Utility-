@@ -1,5 +1,5 @@
-# M1_projectgoal_-utility-
-  Repository for creating an application
+# M1_GkQuiz_-utility-
+  Repository for creating digital quiz based solution for testing and updraging the general knowledge.
 
 ## Milestone -1
 * Folder Structure
