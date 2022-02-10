@@ -2,6 +2,11 @@
 
 ## Design
 
+* Structural diagram:
+*Black box
+
+ ![Screenshot (198)](https://user-images.githubusercontent.com/42509490/153348755-d2583dae-5560-4f6e-b13c-ab75afec00ac.png)
+
 * Behavioural diagaram:
 * Flowcharts
 
