@@ -1,8 +1,9 @@
 # Description
 
+*GkQuiz
 This quiz is designed to test the general knowledge of the user and help the user with an knowledge update. The user can take up 
-the quiz by entering their credientials. Depending upon the user's score in the quiz, the user is provided with good/bad general 
-knowledge as a result.
+the quiz by entering their credientials. Depending upon the user's score in the quiz, the user is provided with good/average/poor general 
+knowledge as a result. User can end the quiz with end option and restart the quiz with restart option.
 
 # Requirements
 
@@ -13,8 +14,10 @@ knowledge as a result.
   1. Participate in quiz.
   
   2. View the result.
+
+  3. Restart the quiz.
   
-  3. Exit the quiz.
+  4. Exit the quiz.
 
 ## Low Level Requirements
 
@@ -28,7 +31,10 @@ knowledge as a result.
   
   4. Displays result upon completion of the quiz.
   
-  5. Provids user with exit option to exit the quiz.
+  5. Provids user with end option to end the quiz.
+  
+  6. Provids user with restart option to restart the quiz.
+  
 
 ## SWOT
 ![Screenshot (187)](https://user-images.githubusercontent.com/42509490/153286605-2b3fae1f-2164-4568-a48f-b2b75c0bda07.png)
