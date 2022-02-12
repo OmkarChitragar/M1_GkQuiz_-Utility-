@@ -24,6 +24,14 @@
 |LP04| User views the option to continue/end the quiz | Character Y | Continues quiz |Pass| Requirement|HP02|
 |LP05| User views the option to continue/end the quiz | Character N | Ends quiz & provids result | Pass | Requirement|HP03|
 |LP06| User views the option to restart the quiz | Character R | Restarts quiz | Pass | Requirement |HP04|
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
 # Table
 * ID, Description of Test case, Input values, Expected Output, Actual Output
