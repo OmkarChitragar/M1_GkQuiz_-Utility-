@@ -16,9 +16,9 @@ knowledge as a result. User can end the quiz with end option and restart the qui
   
   2. View the result.
 
-  3. Restart the quiz.
+  3. End the quiz.
   
-  4. End the quiz.
+  4. Restart the quiz.
 
 ## Low Level Requirements
 
