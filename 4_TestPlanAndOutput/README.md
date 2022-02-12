@@ -28,3 +28,11 @@
 |    | continue/end the quiz    |             | -vids result   |      |            |    |
 |LP06| User views the option to | Character R | Restarts quiz | Pass | Requirement |HP04|
 |    | restart the quiz         |             |               |      |             |    |
+
+## Test Plan Outputs
+* Interface Output:
+ 
+ ![Screenshot (216)](https://user-images.githubusercontent.com/42509490/153711501-1200e7af-e79c-42ba-ad1b-cf8bf65bbffd.png) ![Screenshot (217)](https://user-images.githubusercontent.com/42509490/153711526-3822287f-d92c-4935-84d9-d38d3ee92144.png)
+
+
+ 
