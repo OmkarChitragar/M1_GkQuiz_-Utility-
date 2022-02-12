@@ -14,24 +14,23 @@
 
 ## Low Level Test Plan
 
+## Low Level Test Plan
 <br>
 
 | ID | Description | Expected I/P | Expected O/P| Actual O/P | Type of Test| ID |
-|----|------------------------|---------------|--------------|---------------|---------------|
-|LP01| User is asked to enter username| Character username| Views rules of the game | Pass | Requirement|HP01|
-|LP02| User views the rules & starts the quiz | Character Y| Quiz starts | Pass | Requirement|HP02|
-|LP03| User views the mcqs and enters the option | Character a/b/c/d | Provises result | Pass | Requirement|HP02|
-|LP04| User views the option to continue/end the quiz | Character Y | Continues quiz |Pass| Requirement|HP02|
-|LP05| User views the option to continue/end the quiz | Character N | Ends quiz & provids result | Pass | Requirement|HP03|
-|LP06| User views the option to restart the quiz | Character R | Restarts quiz | Pass | Requirement |HP04|
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> 
+|----|--------------------------|-------------|---------------|------|------------|----|
+|LP01| User is asked to | Character username| Views rules | Pass | Requirement|HP01|
+|    | enter username   |                   | of the game |      |            |    |
+|LP02| User views the rules & | Character Y| Quiz starts | Pass | Requirement|HP02|
+|    | starts the quiz        |            |             |      |            |    |
+|LP03| User views the mcqs and | Character | Provises  | Pass | Requirement|HP02|
+|    | enters the option       | a/b/c/d   | result    |      |            |    |
+|LP04| User views the option to | Character Y | Continues |Pass| Requirement|HP02| 
+|    | continue/end the quiz    | Character Y | the quiz  |    |            |    |
+|LP05| User views the option to | Character N | Ends quiz & pro| Pass | Requirement|HP03|
+|    | continue/end the quiz    | Character N | -vids result   |      |            |    |
+|LP06| User views the option to | Character R | Restarts quiz | Pass | Requirement |HP04|
+|    | restart the quiz         |             |               |      |             |    |
+
 # Table
 * ID, Description of Test case, Input values, Expected Output, Actual Output
