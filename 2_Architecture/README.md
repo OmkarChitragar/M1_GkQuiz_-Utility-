@@ -8,7 +8,8 @@
  
 ## Functional diagram:
 
- ![Screenshot (200)](https://user-images.githubusercontent.com/42509490/153559905-aa99758e-00b0-4764-b993-6ec80c6b81a2.png)
+ ![Screenshot (208)](https://user-images.githubusercontent.com/42509490/153705708-c588a4fc-c9a4-4606-9036-84a72da7d91b.png)
+
 
 
 ## Behavioural diagaram: Flowcharts
