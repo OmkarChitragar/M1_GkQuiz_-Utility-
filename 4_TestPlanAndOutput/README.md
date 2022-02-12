@@ -1,5 +1,8 @@
 # Test Plan
 
+# Table
+* ID, Description of Test case, Input values, Expected Output, Actual Output
+
 ## High Level Test Plan
 
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type of Test |
@@ -8,14 +11,8 @@
 |HP02| User starts the quiz | Character Y | Start | Pass| Requirement |
 |HP03| User ends the quiz | Character N | Result | Pass| Requirement |
 |HP04| User restarts the quiz | Character R | Result | Pass| Requirement |
-<br>
-<br>
-<br>
 
 ## Low Level Test Plan
-
-## Low Level Test Plan
-<br>
 
 | ID | Description | Expected I/P | Expected O/P| Actual O/P | Type of Test| ID |
 |----|--------------------------|-------------|---------------|------|------------|----|
@@ -31,6 +28,3 @@
 |    | continue/end the quiz    |             | -vids result   |      |            |    |
 |LP06| User views the option to | Character R | Restarts quiz | Pass | Requirement |HP04|
 |    | restart the quiz         |             |               |      |             |    |
-
-# Table
-* ID, Description of Test case, Input values, Expected Output, Actual Output
