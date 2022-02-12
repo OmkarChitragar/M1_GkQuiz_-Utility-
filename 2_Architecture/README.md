@@ -13,7 +13,8 @@
 
 ## Behavioural diagaram: Flowcharts
 
- ![Screenshot (199)](https://user-images.githubusercontent.com/42509490/153560906-5aa765a6-58ab-49b8-b58f-157e63959c4f.png)
+ ![Screenshot (207)](https://user-images.githubusercontent.com/42509490/153705620-98496a79-70c6-4291-aa63-8883d120d18f.png)
+
 
 
 ## Usecase diagram:
