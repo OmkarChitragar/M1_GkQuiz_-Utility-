@@ -16,31 +16,23 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 
 ## High Level Requirements
 
-* Feature of my project
-
-  1. Participate in quiz.
-  
-  2. View the result.
-
-  3. End the quiz.
-  
-  4. Restart the quiz.
+| ID | Description  |
+|----|-----------------------------------------------------------------|
+|HP01| User can enter the username in order to particapate in the quiz |
+|HP02| User can attempt the quiz and view the result |
+|HP03| User can end the quiz |
+|HP04| User can restarts the quiz |
 
 ## Low Level Requirements
 
-* How each features is implemented
-
-  1. Prints the statement asking the creadintials such as name of the user for the particapation in the quiz.
-  
-  2. Displays the multiple choice general knowledge questions to the user.
-  
-  3. Takes input as right/wrong answer from the user.
-  
-  4. Displays result upon completion of the quiz.
-  
-  5. Provids user with end option to end the quiz.
-  
-  6. Provids user with restart option to restart the quiz.
+| ID | Description  | ID |
+|----|-------------------------------------------------|----|
+|LP01| User is asked to enter username |HP01|
+|LP02| User views the rules & starts the quiz |HP02|
+|LP03| User views the mcqs and can enter the option |HP02|
+|LP04| User views the result of answered question |HP02| 
+|LP05| User can continue/end the quiz |HP03|
+|LP06| User can restart the quiz |HP04|
   
 
 ## SWOT
