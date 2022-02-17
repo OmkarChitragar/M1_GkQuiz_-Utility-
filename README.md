@@ -61,7 +61,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 
   By implementing a simple C program this solution can be achived.
   
-# Test Plan
+## Test Plan
 
 ## Table
 * ID, Description of Test case, Input values, Expected Output, Actual Output
@@ -86,7 +86,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |LP05| User views the option to continue/end the quiz | Character N | Ends quiz & provids result | Pass | Requirement|HP03|
 |LP06| User views the option to restart the quiz | Character R | Restarts quiz | Pass | Requirement |HP04|
 
-# Test Plan Outputs
+## Test Plan Outputs
 ## Interface Output
  
  ![Screenshot (216)](https://user-images.githubusercontent.com/42509490/153711501-1200e7af-e79c-42ba-ad1b-cf8bf65bbffd.png) 
