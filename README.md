@@ -63,7 +63,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
   
 # Test Plan
 
-# Table
+## Table
 * ID, Description of Test case, Input values, Expected Output, Actual Output
 
 ## High Level Test Plan
