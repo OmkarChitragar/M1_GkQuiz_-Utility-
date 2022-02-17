@@ -1,6 +1,7 @@
 # M1_GkQuiz_-utility-
   Repository for creating digital quiz based solution for testing and upgrading the general knowledge.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4ddae6668596499aaac63c4421759a01)](https://app.codacy.com/gh/OmkarChitragar/M1_GkQuiz_Utility?utm_source=github.com&utm_medium=referral&utm_content=OmkarChitragar/M1_GkQuiz_Utility&utm_campaign=Badge_Grade_Settings)
 ## Codacy badge: [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1320b521ea06494aa9544eb95bdddd69)](https://www.codacy.com/gh/OmkarChitragar/M1_GkQuiz_-utility-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M1_GkQuiz_-utility-&amp;utm_campaign=Badge_Grade)
 
 ## Milestone -1
