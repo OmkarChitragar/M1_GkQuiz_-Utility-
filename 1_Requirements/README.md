@@ -17,7 +17,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |HP03| User can end the quiz |
 |HP04| User can restarts the quiz |
 
-## Low Level Test Requirements
+## Low Level Requirements
 
 | ID | Description  | ID |
 |----|-------------------------------------------------|----|
