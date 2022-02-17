@@ -19,7 +19,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 
 ## Low Level Test Requirements
 
-| ID | Description  |
+| ID | Description  | ID |
 |----|-------------------------------------------------|----|
 |LP01| User is asked to enter username |HP01|
 |LP02| User views the rules & starts the quiz |HP02|
