@@ -20,5 +20,3 @@
 
 ## Usecase diagram
  ![Screenshot (195)](https://user-images.githubusercontent.com/42509490/153346897-d2576243-e63c-49e8-82ce-f44e833a7052.png)
-
-
