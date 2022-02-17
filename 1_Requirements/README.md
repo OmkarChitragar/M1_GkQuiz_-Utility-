@@ -47,7 +47,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 
   When the user wants to ehance his/her's knowledge.
 
-* why?
+* Why?
 
   The user will be aware of the things based on the knowledge obtained by taking up the quiz.
 
