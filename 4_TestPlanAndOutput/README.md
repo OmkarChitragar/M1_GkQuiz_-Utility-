@@ -1,6 +1,6 @@
 # Test Plan
 
-# Table
+## Table
 * ID, Description of Test case, Input values, Expected Output, Actual Output
 
 ## High Level Test Plan
