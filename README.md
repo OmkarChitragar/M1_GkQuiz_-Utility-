@@ -4,8 +4,9 @@
 ## Codacy badge: [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1320b521ea06494aa9544eb95bdddd69)](https://www.codacy.com/gh/OmkarChitragar/M1_GkQuiz_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M1_GkQuiz_Utility&amp;utm_campaign=Badge_Grade)
 
 ## Codiga badge: 
-(https://api.codiga.io/project/31381/score/svg) 
-(https://api.codiga.io/project/31381/status/svg)
+<a href="https://app.codiga.io/public/user/github/OmkarChitragar">
+   <img src="https://api.codiga.io/public/badge/user/github/OmkarChitragar?style=light" alt="codiga badge" />
+</a>
 
 ## Milestone -1
 # Description
