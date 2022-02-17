@@ -27,26 +27,10 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |LP04| User views the result of answered question |HP02| 
 |LP05| User can continue/end the quiz |HP03|
 |LP06| User can restart the quiz |HP04|
+
 ## SWOT
-![Screenshot (187)](https://user-images.githubusercontent.com/42509490/153286605-2b3fae1f-2164-4568-a48f-b2b75c0bda07.png)
+ ![Screenshot (187)](https://user-images.githubusercontent.com/42509490/153286605-2b3fae1f-2164-4568-a48f-b2b75c0bda07.png)
+
 ## 4W's & 1H
 
-* What?
-
-  The project is a simple solution for a general knowledge test as well as for the knowledge update of the user.
-
-* Who?
-
-  Anybody who wants to test their general knowledge and be knowledge updated can take up the quiz.
-
-* When?
-
-  When the user wants to ehance his/her's knowledge.
-
-* Why?
-
-  The user will be aware of the things based on the knowledge obtained by taking up the quiz.
-
-* How?
-
-  By implementing a simple C program this solution can be achived.
+ ![Screenshot (221)](https://user-images.githubusercontent.com/42509490/154549575-98fe792e-e050-4a46-af35-6ab26d1e782f.png)
