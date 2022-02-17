@@ -1,4 +1,4 @@
-#include"GkQuiz.h"
+#include"main.h"
 void main()
 {
     printf("\n<<<<<<<<<<<<<<<<<<<<<<<<<<<< GK QUIZ >>>>>>>>>>>>>>>>>>>>>>>>>>>>\n");
