@@ -6,6 +6,13 @@ This quiz is designed to test the general knowledge of the user and help the use
 the quiz by entering their credientials. Depending upon the user's score in the quiz, the user is provided with good/average/poor general 
 knowledge as a result. User can end the quiz with end option and restart the quiz with restart option.
 
+## Identifying Features
+
+* User can enter the username in order to particapate in the quiz.
+* User can attempt the quiz and view the result.
+* User can end the quiz.
+* User can restarts the quiz.
+ 
 ## Requirements
 
 * High Level Requirements
