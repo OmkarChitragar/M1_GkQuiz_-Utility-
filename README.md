@@ -9,7 +9,6 @@
    <img src="https://api.codiga.io/public/badge/user/github/OmkarChitragar?style=light" alt="codiga badge" />
 </a>
 
-## Milestone -1
 # Description
 
 ## GkQuiz
