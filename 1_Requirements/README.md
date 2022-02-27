@@ -36,8 +36,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |LP06| User can restart the quiz |HP04|
 
 ## SWOT
- ![Screenshot (187)](https://user-images.githubusercontent.com/42509490/153286605-2b3fae1f-2164-4568-a48f-b2b75c0bda07.png)
+![Screenshot (186)](https://user-images.githubusercontent.com/42509490/155878024-1384f841-5e8b-4d19-9057-dc800e41b0dc.png)
 
 ## 4W's & 1H
  ![Screenshot (241)](https://user-images.githubusercontent.com/42509490/155877473-1f0cc0c6-483a-4a7a-8092-a8d0c6952a86.png)
-
