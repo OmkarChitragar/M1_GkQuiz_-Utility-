@@ -1,13 +1,10 @@
 # M1_GkQuiz_Utility
   Repository for creating digital quiz based solution for testing and upgrading the general knowledge.
-  
+
+|  Codacy badge | Codiga badge |           |
 |---------------|--------------------|----------|
-| ## Codacy badge | ## Codiga badge |           |
-| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1320b521ea06494aa9544eb95bdddd69)](https://www.codacy.com/gh/OmkarChitragar/M1_GkQuiz_-utility-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M1_GkQuiz_-utility-&amp;utm_campaign=Badge_Grade)| <a href="https://app.codiga.io/public/user/github/OmkarChitragar">
-   <img src="https://api.codiga.io/public/badge/user/github/OmkarChitragar?style=light" alt="codiga badge" />
-</a>|     |
-
-
+| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1320b521ea06494aa9544eb95bdddd69)](https://www.codacy.com/gh/OmkarChitragar/M1_GkQuiz_-utility-/dashboardutm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M1_GkQuiz_-utility-&amp;utm_campaign=Badge_Grade)  |  <a href="https://app.codiga.io/public/user/github/OmkarChitragar">   <img src="https://api.codiga.io/public/badge/user/github/OmkarChitragar?style=light" alt="codiga badge" /></a> |
+ 
 # Description
 
 ## GkQuiz
