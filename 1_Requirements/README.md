@@ -8,14 +8,14 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 
 ## Identifying Features
 
-* User can enter the username in order to particapate in the quiz.
-* User can attempt the quiz and view the result.
-* User can end the quiz.
-* User can restarts the quiz.
+*  User can enter the username in order to particapate in the quiz.
+*  User can attempt the quiz and view the result.
+*  User can end the quiz.
+*  User can restarts the quiz.
  
 ## Requirements
 
-* High level requirements
+*  High level requirements
 
 | ID | Description  |
 |----|-----------------------------------------------------------------|
@@ -24,7 +24,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |HP03| User can end the quiz |
 |HP04| User can restarts the quiz |
 
-* Low level requirements
+*  Low level requirements
 
 | ID | Description  | ID |
 |----|-------------------------------------------------|----|
