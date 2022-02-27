@@ -14,10 +14,10 @@ the quiz by entering their credientials. Depending upon the user's score in the 
 knowledge as a result. User can end the quiz with end option and restart the quiz with restart option.
 
 ## Features
-* User can enter the username in order to particapate in the quiz.
-* User can attempt the quiz and view the result.
-* User can end the quiz.
-* User can restarts the quiz.
+*  User can enter the username in order to particapate in the quiz.
+*  User can attempt the quiz and view the result.
+*  User can end the quiz.
+*  User can restarts the quiz.
 
 ## SWOT
 ![Screenshot (186)](https://user-images.githubusercontent.com/42509490/155877756-ba0832b3-9605-4c9c-802e-82178a4548a6.png)
@@ -27,7 +27,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
   
 ## Test Plan
 
-* High Level Test Plan
+*  High Level Test Plan
 
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type of Test |
 |----|----------------------|-------------|-------------|-------------|--------------|
@@ -36,7 +36,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |HP03| User ends the quiz | Character N | Result | Pass| Requirement |
 |HP04| User restarts the quiz | Character R | Result | Pass| Requirement |
 
-* Low Level Test Plan
+*  Low Level Test Plan
 
 | ID | Description | Expected I/P | Expected O/P| Actual O/P | Type of Test| ID |
 |----|--------------------------|-------------|---------------|------|------------|----|
