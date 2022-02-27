@@ -32,5 +32,5 @@ knowledge as a result. User can end the quiz with end option and restart the qui
  ![Screenshot (187)](https://user-images.githubusercontent.com/42509490/153286605-2b3fae1f-2164-4568-a48f-b2b75c0bda07.png)
 
 ## 4W's & 1H
+ ![Screenshot (241)](https://user-images.githubusercontent.com/42509490/155877473-1f0cc0c6-483a-4a7a-8092-a8d0c6952a86.png)
 
- ![Screenshot (221)](https://user-images.githubusercontent.com/42509490/154549575-98fe792e-e050-4a46-af35-6ab26d1e782f.png)
