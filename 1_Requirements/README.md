@@ -15,7 +15,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
  
 ## Requirements
 
-* High Level Requirements
+* High level requirements
 
 | ID | Description  |
 |----|-----------------------------------------------------------------|
@@ -24,7 +24,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |HP03| User can end the quiz |
 |HP04| User can restarts the quiz |
 
-* Low Level Requirements
+* Low level requirements
 
 | ID | Description  | ID |
 |----|-------------------------------------------------|----|
