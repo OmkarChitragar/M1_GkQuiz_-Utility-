@@ -60,3 +60,5 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 ## User restarts the quiz
 
  ![Screenshot (214)](https://user-images.githubusercontent.com/42509490/153711745-34990b79-02fd-4357-b6f3-0815fa8f5b07.png)
+
+## The breifed out containts and code is present inside the above present folders. Thank you!
