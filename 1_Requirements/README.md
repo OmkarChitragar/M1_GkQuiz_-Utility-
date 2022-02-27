@@ -6,9 +6,9 @@ This quiz is designed to test the general knowledge of the user and help the use
 the quiz by entering their credientials. Depending upon the user's score in the quiz, the user is provided with good/average/poor general 
 knowledge as a result. User can end the quiz with end option and restart the quiz with restart option.
 
-# Requirements
+## Requirements
 
-## High Level Requirements
+* High Level Requirements
 
 | ID | Description  |
 |----|-----------------------------------------------------------------|
@@ -17,7 +17,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |HP03| User can end the quiz |
 |HP04| User can restarts the quiz |
 
-## Low Level Requirements
+* Low Level Requirements
 
 | ID | Description  | ID |
 |----|-------------------------------------------------|----|
