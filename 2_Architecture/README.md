@@ -11,3 +11,9 @@
 
 ## Usecase diagram
 ![Screenshot (195)](https://user-images.githubusercontent.com/42509490/153346897-d2576243-e63c-49e8-82ce-f44e833a7052.png)
+
+## Best method followed
+
+* The best of the best diagrams are considered
+* With the use of all the diagrams code will be built
+* Low level and High level requirements are implimented
