@@ -48,24 +48,16 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 |LP06| User views the option to restart the quiz | Character R | Restarts quiz | Pass | Requirement |HP04|
 
 ## Test Plan Outputs
-## Interface Output
- 
- ![Screenshot (216)](https://user-images.githubusercontent.com/42509490/153711501-1200e7af-e79c-42ba-ad1b-cf8bf65bbffd.png) 
+|1.Interface Output | 2. User enters the username and starts the quiz |
+|------------------|------------------------------------------------| 
+|![Screenshot (242)](https://user-images.githubusercontent.com/42509490/155879229-1dbb0677-1b2f-4f9f-be66-4c9f9f6e0b05.png)|![Screenshot (243)](https://user-images.githubusercontent.com/42509490/155879260-11befabf-a3b1-4814-9b89-1e2c092c8cd3.png)|
 
-## User enters the username and starts the quiz
+|3. User attempts the quiz entering optiona a/b/c/d and gets result output| 4. User ends the quiz |
+|------------------|------------------------------------------------| 
+|![Screenshot (244)](https://user-images.githubusercontent.com/42509490/155879323-0a2375a6-ae3b-4d68-b0ee-fdd945492723.png)|![Screenshot (245)](https://user-images.githubusercontent.com/42509490/155879335-6765aef4-d0e4-4870-8051-781c8b414c95.png)|
 
- ![Screenshot (217)](https://user-images.githubusercontent.com/42509490/153711526-3822287f-d92c-4935-84d9-d38d3ee92144.png)
- 
-## User attempts the quiz entering optiona a/b/c/d and gets result output
-
- ![Screenshot (212)](https://user-images.githubusercontent.com/42509490/153711675-f219ac6e-7480-4ca7-aaf3-cd604294dca3.png)
-
-## User ends the quiz
-
- ![Screenshot (213)](https://user-images.githubusercontent.com/42509490/153711721-de262028-2f0c-4931-a4ba-98d02c51c065.png)
-
-## User restarts the quiz
-
- ![Screenshot (214)](https://user-images.githubusercontent.com/42509490/153711745-34990b79-02fd-4357-b6f3-0815fa8f5b07.png)
+|5.  User can restart the quiz after ending the quiz |
+|--------------------------------------------------|
+|![Screenshot (246)](https://user-images.githubusercontent.com/42509490/155879517-84fc87b8-fd2e-4652-84f2-7c3786b39dae.png)|
 
 ## More briefed out containts and code is present inside the above present folders 
