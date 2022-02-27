@@ -49,14 +49,14 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 
 ## Test Plan Outputs
 |1. Initial Interface of the quiz | 2. User enters the username and starts the quiz |
-|------------------|------------------------------------------------| 
+|---------------------------------|-------------------------------------------------| 
 |![Screenshot (242)](https://user-images.githubusercontent.com/42509490/155879229-1dbb0677-1b2f-4f9f-be66-4c9f9f6e0b05.png)|![Screenshot (243)](https://user-images.githubusercontent.com/42509490/155879260-11befabf-a3b1-4814-9b89-1e2c092c8cd3.png)|
 
-|3. User attempts the quiz entering optiona a/b/c/d and gets result output| 4. User ends the quiz and gets the final result of the quiz |
-|------------------|------------------------------------------------| 
+|3. User attempts the quiz entering optiona 'a/b/c/d' and gets result output| 4. User ends the quiz by entering 'N' and gets the final result of the quiz |
+|---------------------------------------------------------------------------|-----------------------------------------------------------------------------| 
 |![Screenshot (244)](https://user-images.githubusercontent.com/42509490/155879323-0a2375a6-ae3b-4d68-b0ee-fdd945492723.png)|![Screenshot (245)](https://user-images.githubusercontent.com/42509490/155879335-6765aef4-d0e4-4870-8051-781c8b414c95.png)|
 
-|5.  User can restart the quiz after ending the quiz |
+|5.  User can restart the quiz by entering 'R' after ending the quiz |
 |--------------------------------------------------|
 |![Screenshot (246)](https://user-images.githubusercontent.com/42509490/155879517-84fc87b8-fd2e-4652-84f2-7c3786b39dae.png)|
 
