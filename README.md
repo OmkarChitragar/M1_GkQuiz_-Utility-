@@ -20,6 +20,7 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 ![Screenshot (241)](https://user-images.githubusercontent.com/42509490/155877651-d618cdc9-4156-4c0f-8ea8-a18a80421ed2.png)
   
 ## Test Plan
+
 * High Level Test Plan
 
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type of Test |
@@ -61,4 +62,4 @@ knowledge as a result. User can end the quiz with end option and restart the qui
 
  ![Screenshot (214)](https://user-images.githubusercontent.com/42509490/153711745-34990b79-02fd-4357-b6f3-0815fa8f5b07.png)
 
-## More briefed out containts and code is present inside the above present folders. Thank you!
+## More briefed out containts and code is present inside the above present folders. 
