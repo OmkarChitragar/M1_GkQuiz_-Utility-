@@ -14,7 +14,7 @@ the quiz by entering their credientials. Depending upon the user's score in the 
 knowledge as a result. User can end the quiz with end option and restart the quiz with restart option.
 
 ## SWOT
-![Screenshot (187)](https://user-images.githubusercontent.com/42509490/153286605-2b3fae1f-2164-4568-a48f-b2b75c0bda07.png)
+![Screenshot (186)](https://user-images.githubusercontent.com/42509490/155877756-ba0832b3-9605-4c9c-802e-82178a4548a6.png)
 
 ## 4W's & 1H
 ![Screenshot (241)](https://user-images.githubusercontent.com/42509490/155877651-d618cdc9-4156-4c0f-8ea8-a18a80421ed2.png)
