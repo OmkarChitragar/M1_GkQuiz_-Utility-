@@ -20,19 +20,19 @@ void tearDown()
 }
 void Calculatescore()
 {
-    TEST_ASSERT_EQUAL_INT(10,Calculatescore(0,10));
+    TEST_ASSERT_EQUAL(10,Calculatescore(0,10));
 }
 void question()
 {
-    TEST_ASSERT_EQUAL_CHAR(Y,question(Y));
+    TEST_ASSERT_EQUAL(Y,question(Y));
 }    
 void result()
 {
-    TEST_ASSERT_EQUAL_CHAR(1,result());
+    TEST_ASSERT_EQUAL(0,result(0));
 }
 void menu()
 {
-    TEST_ASSERT_EQUAL_INT(1,menu());
+    TEST_ASSERT_EQUAL(0,menu(0));
 }
 
 int main(void)
