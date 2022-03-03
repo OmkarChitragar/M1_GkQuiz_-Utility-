@@ -1,5 +1,5 @@
 PROJ_NAME = GkQuiz
-SRC = main.c
+SRC = project_main.c
 
 ifdef OS
    RM = del /q
