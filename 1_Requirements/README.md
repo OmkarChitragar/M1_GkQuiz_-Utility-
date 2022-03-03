@@ -3,9 +3,8 @@
 ## GkQuiz
 
 This quiz is designed to test the general knowledge of the user and help the user with an knowledge update. The user can take up 
-the quiz by entering their credientials. Depending upon the user's score in the quiz, the user is provided with good/average/poor general 
-knowledge as a result. User can end the quiz with end option and restart the quiz with restart option.
-
+the quiz by entering their credientials. Depending upon the user's score in the quiz, the user is provided with good/average/poor
+general knowledge as a result. User can end the quiz with end option and restart the quiz with restart option.
 ## Identifying Features
 
 *   User can enter the username in order to particapate in the quiz.
