@@ -9,5 +9,4 @@ int Calculatescore();
 char result(char Chooseoption,char Correctoption);
 int question();
 int menu();
-
 #endif
