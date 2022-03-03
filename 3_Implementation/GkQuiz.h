@@ -1,10 +1,11 @@
-#ifndef _system_h
-#define _system_h
+#ifndef _GKQUIZ_H
+#define _GKQUIZ_H
 #include<stdio.h>
 #include<stdlib.h>
+#include<ctype.h>
 char Username[50];
 int Userscore=0,Countscore=0;
-void Calculatescore()
+int Calculatescore()
 {   
     if (Userscore >= 90&&Userscore <= 100)
     {  
@@ -51,7 +52,7 @@ void Calculatescore()
 char result(char Chooseoption,char Correctoption)
 {
     char Nextquestion;
-    if (Chooseoption==Correctoption)
+    if (tolower(Chooseoption)==Correctoption)
     {
 	Countscore++;
 	Userscore=Userscore+10;
@@ -72,7 +73,7 @@ char result(char Chooseoption,char Correctoption)
 	return(Nextquestion);
     }
 }
-void question()
+int question()
 {   
     char Chooseoption,Correctoption;
     printf("1.Which is the 3rd highest mountain in the world ?\n");
@@ -85,7 +86,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;  
+	return 0;  
     }
     printf("2.What is the group of frogs known as ?\n");
     printf("\tA. A traffic \tB. A toddler\n");
@@ -97,7 +98,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
 	printf("3.What is the national game of England ?\n");
 	printf("\tA. Football \tB. Basketball\n");
@@ -109,7 +110,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
    	printf("4.Study of earthquake is called as ?\n");
 	printf("\tA. Seismology\tB. Cosmology\n");
@@ -121,7 +122,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
     printf("5.The laws of electromagnetic induction were given by ?\n");
     printf("\tA. Faraday  \tB. Tesla\n");
@@ -133,7 +134,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
     printf("6.Which is the longest river in the world ?\n");
 	printf("\tA. Nile    \tB. Koshi\n ");
@@ -145,7 +146,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
     printf("7.Name the country where there no mosquitoes are found ?\n");
 	printf("\tA. Japan     \tB. Italy\n ");
@@ -157,7 +158,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
     printf("8.Which country is famous for samba dance ?\n");
 	printf("\tA. Brazil    \tB. Venezuela\n");
@@ -169,7 +170,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
 	printf("9.Ozone plate is being destroyed regularly because of ?\n");
 	printf("\tA. LPG       \tB. Nitrogen\n");
@@ -181,7 +182,7 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
     printf("10.Wind speed is measure by______ ?\n");
 	printf("\tA. Lysimeter  \tB. Air vane\n");
@@ -193,11 +194,11 @@ void question()
     Correctoption=result(Chooseoption,Correctoption);
     if (Correctoption=='n'||Correctoption=='N')
     {
-	return;
+	return 0;
     }
     Calculatescore();
 }
-void menu()
+int menu()
 {
     char Yes;
     char Restart;
@@ -223,6 +224,7 @@ void menu()
     scanf("%c",&Restart);
     if(Restart=='r'||Restart=='R')
     {
+    Userscore=0,Countscore=0;
     menu();
     }
     else
