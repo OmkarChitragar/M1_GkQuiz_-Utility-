@@ -47,7 +47,7 @@ int Calculatescore()
 	printf("\n********************** Better luck next time ***********************\n");
     printf("press (R) to RESTART the quiz\n");
     }
-    
+return 0;    
 }
 char result(char Chooseoption,char Correctoption)
 {
@@ -72,6 +72,7 @@ char result(char Chooseoption,char Correctoption)
 	scanf("%c",&Nextquestion);
 	return(Nextquestion);
     }
+    return 0;
 }
 int question()
 {   
@@ -197,6 +198,7 @@ int question()
 	return 0;
     }
     Calculatescore();
+    return 0;
 }
 int menu()
 {
@@ -229,7 +231,7 @@ int menu()
     }
     else
     {
-     exit(0);   
+    return 0;   
   }
 } 
 #endif
