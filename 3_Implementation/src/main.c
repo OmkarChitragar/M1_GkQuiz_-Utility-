@@ -1,8 +1,4 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<ctype.h>
-char Username[50];
-int Userscore=0,Countscore=0;
+#include "GkQuiz.h"
 int Calculatescore()
 {   
     if (Userscore >= 90&&Userscore <= 100)
@@ -229,11 +225,3 @@ int menu()
     }
     return 0;  
   }
-  int main()
-{
-    printf("\n<<<<<<<<<<<<<<<<<<<<<<<<<<<< GK QUIZ >>>>>>>>>>>>>>>>>>>>>>>>>>>>\n");
-    printf("Enter your name:");
-    scanf("%c",Username);
-    menu();
-    return 0;
-}
