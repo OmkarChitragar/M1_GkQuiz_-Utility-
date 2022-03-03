@@ -24,20 +24,19 @@
 
 *   Interface Output.
    
- ![Screenshot (216)](https://user-images.githubusercontent.com/42509490/153711501-1200e7af-e79c-42ba-ad1b-cf8bf65bbffd.png) 
+![Screenshot (251)](https://user-images.githubusercontent.com/42509490/156665049-31ad5bb0-bdf4-4710-8609-724dbf4c01ea.png)
 
 *   User enters the username and starts the quiz.
   
-![Screenshot (217)](https://user-images.githubusercontent.com/42509490/153711526-3822287f-d92c-4935-84d9-d38d3ee92144.png)
+![Screenshot (252)](https://user-images.githubusercontent.com/42509490/156665259-4f86b1b4-ae36-454a-abfb-a6d2815548a4.png)
  
 *   User attempts the quiz entering optiona a/b/c/d and gets result output.  
 
-![Screenshot (212)](https://user-images.githubusercontent.com/42509490/153711675-f219ac6e-7480-4ca7-aaf3-cd604294dca3.png)
+![Screenshot (253)](https://user-images.githubusercontent.com/42509490/156665349-ba92325f-5e2f-4e17-9a1c-b7be1f91c749.png)
 
 *   User ends the quiz. 
- 
-![Screenshot (213)](https://user-images.githubusercontent.com/42509490/153711721-de262028-2f0c-4931-a4ba-98d02c51c065.png)
+ ![Screenshot (254)](https://user-images.githubusercontent.com/42509490/156665424-6b00656a-a9a5-41ec-bfd0-1b389345bc1e.png)
 
 *   User restarts the quiz.
 
-![Screenshot (214)](https://user-images.githubusercontent.com/42509490/153711745-34990b79-02fd-4357-b6f3-0815fa8f5b07.png)
+![Screenshot (255)](https://user-images.githubusercontent.com/42509490/156665512-8972069f-8781-4dad-ba39-ebe04ff312d7.png)
