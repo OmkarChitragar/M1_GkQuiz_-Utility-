@@ -49,7 +49,7 @@ int Calculatescore()
 }
 char result(char Chooseoption,char Correctoption)
 {
-    char Nextquestion;
+    char Nextquestion,junk;
     if (tolower(Chooseoption)==Correctoption)
     {
 	Countscore++;
@@ -57,6 +57,8 @@ char result(char Chooseoption,char Correctoption)
 	printf("Yay! your answer is Correct :)\n");
 	printf("Press (Y) for next question ");
 	printf("or Press (N) to END the quiz\n");
+    fflush(stdin);
+    scanf("%c",&junk);
 	fflush(stdin);
 	scanf("%c",&Nextquestion);
 	return(Nextquestion);
@@ -66,6 +68,8 @@ char result(char Chooseoption,char Correctoption)
 	printf("Sorry! your answer is wrong :(\n");
 	printf("Press (Y) for next question ");
 	printf("or Press (N) to END the quiz\n");
+    fflush(stdin);
+    scanf("%c",&junk);
 	fflush(stdin);
 	scanf("%c",&Nextquestion);
 	return(Nextquestion);
@@ -74,11 +78,13 @@ char result(char Chooseoption,char Correctoption)
 }
 int question()
 {   
-    char Chooseoption,Correctoption;
+    char Chooseoption,Correctoption,junk;
     printf("1.Which is the 3rd highest mountain in the world ?\n");
     printf("\tA. Mt. K2    \tB. Mt. Kanchanjungha\n");
     printf("\tC. Mt. Makalu\tD. Mt. Kilimanjaro\n");
     printf("Choose your option:");
+    fflush(stdin);
+    scanf("%c",&junk);
     fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='b';
@@ -92,6 +98,8 @@ int question()
     printf("\tC. A police  \tD. An Army\n");
     printf("Choose your option:");
     fflush(stdin);
+    scanf("%c",&junk);
+    fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='d';
     Correctoption=result(Chooseoption,Correctoption);
@@ -103,6 +111,8 @@ int question()
 	printf("\tA. Football \tB. Basketball\n");
     printf("\tC. Cricket  \tD. Baseball\n");
     printf("Choose your option:");
+    fflush(stdin);
+    scanf("%c",&junk);
     fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='c';
@@ -116,6 +126,8 @@ int question()
     printf("\tC. Orology   \tD. Etimology\n");
     printf("Choose your option:");
     fflush(stdin);
+    scanf("%c",&junk);
+    fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='a';
     Correctoption=result(Chooseoption,Correctoption);
@@ -127,6 +139,8 @@ int question()
     printf("\tA. Faraday  \tB. Tesla\n");
     printf("\tC. Maxwell  \tD. Coulomb\n");
     printf("Choose your option:");
+    fflush(stdin);
+    scanf("%c",&junk);
     fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='a';
@@ -140,6 +154,8 @@ int question()
     printf("\tC. Ganga   \tD. Amazon\n");
     printf("Choose your option:");
     fflush(stdin);
+    scanf("%c",&junk);
+    fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='a';
     Correctoption=result(Chooseoption,Correctoption);
@@ -151,6 +167,8 @@ int question()
 	printf("\tA. Japan     \tB. Italy\n ");
     printf("\tC. Argentina \tD. France\n");
     printf("Choose your option:");
+    fflush(stdin);
+    scanf("%c",&junk);
     fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='d';
@@ -164,6 +182,8 @@ int question()
     printf("\tC. Nigeria   \tD. Bolivia\n");
     printf("Choose your option:");
     fflush(stdin);
+    scanf("%c",&junk);
+    fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='b';
     Correctoption=result(Chooseoption,Correctoption);
@@ -175,6 +195,8 @@ int question()
 	printf("\tA. LPG       \tB. Nitrogen\n");
     printf("\tC. Methane   \tD. CFC:\n");
     printf("Choose your option:");
+    fflush(stdin);
+    scanf("%c",&junk);
     fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='d';
@@ -188,6 +210,8 @@ int question()
     printf("\tC. Hydrometer \tD. Anemometer\n");
     printf("Choose your option:");
     fflush(stdin);
+    scanf("%c",&junk);
+    fflush(stdin);
     scanf("%c",&Chooseoption);
     Correctoption='d';
     Correctoption=result(Chooseoption,Correctoption);
@@ -200,7 +224,7 @@ int question()
 }
 int menu()
 {
-    char Yes;
+    char Yes,junk;
     char Restart;
     printf("\nHello! %s\n",Username);
     printf("------------  Welcome to General Knowledge Test Quiz  -----------\n");
@@ -214,12 +238,16 @@ int menu()
     printf("Press (Y) to START the quiz >>>>\n");
     printf("-----------------------------------------------------------------\n");
     fflush(stdin);
+    scanf("%c",&junk);
+    fflush(stdin);
     scanf("%c",&Yes);
     if(Yes=='y'||Yes=='Y')
     {
 	question();
 	Calculatescore();
     }
+    fflush(stdin);
+    scanf("%c",&junk);
     fflush(stdin);
     scanf("%c",&Restart);
     if(Restart=='r'||Restart=='R')
@@ -233,7 +261,7 @@ int menu()
 {
     printf("\n<<<<<<<<<<<<<<<<<<<<<<<<<<<< GK QUIZ >>>>>>>>>>>>>>>>>>>>>>>>>>>>\n");
     printf("Enter your name:");
-    scanf("%c",Username);
+    scanf("%s",Username);
     menu();
     return 0;
 }
