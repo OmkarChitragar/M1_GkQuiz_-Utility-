@@ -22,6 +22,7 @@
 
 ## Test Plan Outputs
 
+
 * Interface Output.
 
  ![Screenshot (216)](https://user-images.githubusercontent.com/42509490/153711501-1200e7af-e79c-42ba-ad1b-cf8bf65bbffd.png)
@@ -32,7 +33,8 @@
 
 * User attempts the quiz entering optiona a/b/c/d and gets result output.  
 
-![Screenshot (212)](https://user-images.githubusercontent.com/42509490/153711675-f219ac6e-7480-4ca7-aaf3-cd604294dca3.png)
+![Screenshot (253)](https://user-images.githubusercontent.com/42509490/156665349-ba92325f-5e2f-4e17-9a1c-b7be1f91c749.png)
+
 
 * User ends the quiz.
 
@@ -40,4 +42,4 @@
 
 * User restarts the quiz.
 
-![Screenshot (214)](https://user-images.githubusercontent.com/42509490/153711745-34990b79-02fd-4357-b6f3-0815fa8f5b07.png)
+![Screenshot (255)](https://user-images.githubusercontent.com/42509490/156665512-8972069f-8781-4dad-ba39-ebe04ff312d7.png)
