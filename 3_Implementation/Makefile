@@ -1,10 +1,10 @@
 PROJ_NAME = GkQuiz
-SRC = src/GkQuiz.c\
-src/main.c\
-
-TEST_SRC = src/test_GkQuiz.c\
-unity/unity.c\
+SRC = project_main.c\
 src/GkQuiz.c\
+
+TEST_SRC = src/GkQuiz.c\
+test/test_GkQuiz.c\
+unity/unity.c\
 
 
 ifdef OS
@@ -19,7 +19,7 @@ else
  endif
 endif
 
-INC=-Iinclude\
+INC=-Iinc\
 -Iunity\
 
 Build:
@@ -29,7 +29,7 @@ run:Build
 
 Build_test:
 	gcc	$(TEST_SRC)	$(INC)	-o	$(call	FixPath,$(PROJ_NAME).$(EXEC))
-run:Build_test
+run_test:Build_test
 	./$(call	FixPath,$(PROJ_NAME).$(EXEC))
 
 
