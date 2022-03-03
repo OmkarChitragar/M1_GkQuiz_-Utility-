@@ -20,12 +20,11 @@ void tearDown()
 }
 void Calculatescore()
 {
-    TEST_ASSERT_EQUAL_INT(1,Calculatescore());
-    TEST_ASSERT_EQUAL_INT(1,Calculatescore());
+    TEST_ASSERT_EQUAL_INT(10,Calculatescore(0,10));
 }
 void question()
 {
-    TEST_ASSERT_EQUAL_INT(1,question());
+    TEST_ASSERT_EQUAL_CHAR(Y,question(Y));
 }    
 void result()
 {
