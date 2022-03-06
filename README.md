@@ -4,7 +4,7 @@
 
 |  Codacy badge | Codiga badge | Codiga badge |
 |-----------------|--------------------|----------------|
-| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1320b521ea06494aa9544eb95bdddd69)](https://www.codacy.com/gh/OmkarChitragar/M1_GkQuiz_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M1_GkQuiz_Utility&amp;utm_campaign=Badge_Grade) |  <a href="https://api.codiga.io/project/31477/score/svg">   <img src="https://api.codiga.io/project/31477/score/svg?style=dark" alt="codiga badge" /></a> |  <a href="https://api.codiga.io/project/31477/status/svg">   <img src="https://api.codiga.io/project/31477/status/svg?style=dark" alt="codiga badge" /></a> |
+| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1320b521ea06494aa9544eb95bdddd69)](https://www.codacy.com/gh/OmkarChitragar/M1_GkQuiz_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M1_GkQuiz_Utility&amp;utm_campaign=Badge_Grade) |  <a href="https://api.codiga.io/project/31475/score/svg">   <img src="https://api.codiga.io/project/31475/score/svg?style=dark" alt="codiga badge" /></a> |  <a href="https://api.codiga.io/project/31475/status/svg">   <img src="https://api.codiga.io/project/31475/status/svg?style=dark" alt="codiga badge" /></a> |
 
 ## Description
 
